@@ -1,0 +1,1126 @@
+[2023-04-18T12:52:13.771+0000] {processor.py:153} INFO - Started process (PID=4441) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:52:13.772+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:52:13.772+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:13.772+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:52:13.973+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:52:14.253+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:14.252+0000] {manager.py:504} INFO - Created Permission View: can delete on DAG:process-employees
+[2023-04-18T12:52:14.265+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:14.265+0000] {manager.py:504} INFO - Created Permission View: can edit on DAG:process-employees
+[2023-04-18T12:52:14.274+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:14.274+0000] {manager.py:504} INFO - Created Permission View: can read on DAG:process-employees
+[2023-04-18T12:52:14.274+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:14.274+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:52:14.298+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:14.298+0000] {dag.py:2711} INFO - Creating ORM DAG for process-employees
+[2023-04-18T12:52:14.354+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:14.354+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T12:52:14.381+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.613 seconds
+[2023-04-18T12:52:44.521+0000] {processor.py:153} INFO - Started process (PID=4491) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:52:44.522+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:52:44.522+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:44.522+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:52:44.569+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:52:44.595+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:44.595+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:52:44.626+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:52:44.625+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T12:52:44.644+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.126 seconds
+[2023-04-18T12:53:14.904+0000] {processor.py:153} INFO - Started process (PID=4541) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:53:14.908+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:53:14.909+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:53:14.908+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:53:14.958+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:53:14.990+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:53:14.990+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:53:15.025+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:53:15.025+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T12:53:15.049+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.148 seconds
+[2023-04-18T12:53:45.282+0000] {processor.py:153} INFO - Started process (PID=4601) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:53:45.283+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:53:45.285+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:53:45.284+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:53:45.464+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:53:45.507+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:53:45.507+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:53:45.540+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:53:45.540+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T12:53:45.561+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.283 seconds
+[2023-04-18T12:54:15.780+0000] {processor.py:153} INFO - Started process (PID=4666) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:54:15.781+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:54:15.782+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:54:15.782+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:54:15.830+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:54:15.860+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:54:15.860+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:54:15.894+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:54:15.894+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T12:54:15.960+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.182 seconds
+[2023-04-18T12:54:46.098+0000] {processor.py:153} INFO - Started process (PID=4716) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:54:46.099+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:54:46.099+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:54:46.099+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:54:46.145+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:54:46.172+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:54:46.172+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:54:46.203+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:54:46.203+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T12:54:46.223+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.128 seconds
+[2023-04-18T12:55:16.452+0000] {processor.py:153} INFO - Started process (PID=4776) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:55:16.453+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:55:16.454+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:55:16.454+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:55:16.563+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:55:16.591+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:55:16.590+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:55:16.672+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:55:16.672+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T12:55:16.693+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.244 seconds
+[2023-04-18T12:55:46.973+0000] {processor.py:153} INFO - Started process (PID=4842) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:55:46.974+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:55:46.974+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:55:46.974+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:55:47.018+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:55:47.042+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:55:47.042+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:55:47.072+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:55:47.072+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T12:55:47.090+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.120 seconds
+[2023-04-18T12:56:17.257+0000] {processor.py:153} INFO - Started process (PID=4892) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:56:17.258+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:56:17.259+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:56:17.259+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:56:17.306+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:56:17.336+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:56:17.336+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:56:17.365+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:56:17.365+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T12:56:17.383+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.129 seconds
+[2023-04-18T12:56:47.605+0000] {processor.py:153} INFO - Started process (PID=4949) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:56:47.606+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:56:47.607+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:56:47.607+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:56:47.659+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:56:47.689+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:56:47.689+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:56:47.724+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:56:47.724+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T12:56:47.745+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.144 seconds
+[2023-04-18T12:57:17.967+0000] {processor.py:153} INFO - Started process (PID=5006) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:57:17.968+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:57:17.969+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:57:17.968+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:57:18.024+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:57:18.054+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:57:18.054+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:57:18.093+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:57:18.093+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T12:57:18.117+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.155 seconds
+[2023-04-18T12:57:48.293+0000] {processor.py:153} INFO - Started process (PID=5073) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:57:48.294+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:57:48.295+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:57:48.295+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:57:48.341+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:57:48.366+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:57:48.366+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:57:48.396+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:57:48.396+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T12:57:48.415+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.127 seconds
+[2023-04-18T12:58:18.567+0000] {processor.py:153} INFO - Started process (PID=5123) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:58:18.569+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:58:18.569+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:58:18.569+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:58:18.616+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:58:18.642+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:58:18.642+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:58:18.673+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:58:18.673+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T12:58:18.692+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.128 seconds
+[2023-04-18T12:58:48.949+0000] {processor.py:153} INFO - Started process (PID=5182) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:58:48.950+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:58:48.951+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:58:48.951+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:58:49.003+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:58:49.032+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:58:49.032+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:58:49.066+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:58:49.066+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T12:58:49.090+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.145 seconds
+[2023-04-18T12:59:19.267+0000] {processor.py:153} INFO - Started process (PID=5247) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:59:19.268+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:59:19.269+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:59:19.269+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:59:19.320+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:59:19.351+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:59:19.351+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:59:19.387+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:59:19.387+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T12:59:19.407+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.144 seconds
+[2023-04-18T12:59:49.601+0000] {processor.py:153} INFO - Started process (PID=5297) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T12:59:49.602+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T12:59:49.603+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:59:49.603+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:59:49.653+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T12:59:49.682+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:59:49.682+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T12:59:49.725+0000] {logging_mixin.py:137} INFO - [2023-04-18T12:59:49.724+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T12:59:49.748+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.150 seconds
+[2023-04-18T13:00:19.920+0000] {processor.py:153} INFO - Started process (PID=5356) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:00:19.921+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:00:19.922+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:00:19.922+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:00:19.971+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:00:19.998+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:00:19.998+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:00:20.029+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:00:20.029+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:00:20.050+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.134 seconds
+[2023-04-18T13:00:50.279+0000] {processor.py:153} INFO - Started process (PID=5421) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:00:50.280+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:00:50.281+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:00:50.281+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:00:50.356+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:00:50.382+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:00:50.382+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:00:50.412+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:00:50.412+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:00:50.435+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.159 seconds
+[2023-04-18T13:01:20.656+0000] {processor.py:153} INFO - Started process (PID=5471) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:01:20.657+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:01:20.658+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:01:20.657+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:01:20.705+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:01:20.731+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:01:20.730+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:01:20.761+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:01:20.761+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:01:20.783+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.130 seconds
+[2023-04-18T13:01:51.011+0000] {processor.py:153} INFO - Started process (PID=5521) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:01:51.012+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:01:51.013+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:01:51.013+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:01:51.060+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:01:51.087+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:01:51.087+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:01:51.119+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:01:51.118+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:01:51.138+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.130 seconds
+[2023-04-18T13:02:21.300+0000] {processor.py:153} INFO - Started process (PID=5595) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:02:21.301+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:02:21.302+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:02:21.302+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:02:21.348+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:02:21.375+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:02:21.375+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:02:21.406+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:02:21.406+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:02:21.425+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.128 seconds
+[2023-04-18T13:02:51.597+0000] {processor.py:153} INFO - Started process (PID=5645) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:02:51.598+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:02:51.599+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:02:51.599+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:02:51.649+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:02:51.680+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:02:51.680+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:02:51.708+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:02:51.708+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:02:51.731+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.137 seconds
+[2023-04-18T13:03:21.885+0000] {processor.py:153} INFO - Started process (PID=5695) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:03:21.886+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:03:21.887+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:03:21.887+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:03:21.959+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:03:22.102+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:03:22.102+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:03:22.116+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:03:22.116+0000] {dag.py:2711} INFO - Creating ORM DAG for process-employees
+[2023-04-18T13:03:22.131+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:03:22.131+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T13:03:22.150+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.269 seconds
+[2023-04-18T13:03:45.297+0000] {processor.py:153} INFO - Started process (PID=5745) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:03:45.298+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:03:45.299+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:03:45.299+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:03:45.349+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:03:45.362+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:03:45.362+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:03:45.393+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:03:45.393+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T13:03:45.414+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.120 seconds
+[2023-04-18T13:04:15.647+0000] {processor.py:153} INFO - Started process (PID=5802) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:04:15.648+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:04:15.649+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:04:15.649+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:04:15.700+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:04:15.765+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:04:15.765+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:04:15.848+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:04:15.848+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T13:04:15.876+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.245 seconds
+[2023-04-18T13:04:46.180+0000] {processor.py:153} INFO - Started process (PID=5877) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:04:46.181+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:04:46.182+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:04:46.182+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:04:46.227+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:04:46.254+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:04:46.253+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:04:46.286+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:04:46.286+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:04:46.305+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.128 seconds
+[2023-04-18T13:05:16.484+0000] {processor.py:153} INFO - Started process (PID=5927) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:05:16.486+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:05:16.486+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:05:16.486+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:05:16.535+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:05:16.575+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:05:16.575+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:05:16.609+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:05:16.609+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:05:16.628+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.146 seconds
+[2023-04-18T13:05:46.782+0000] {processor.py:153} INFO - Started process (PID=5977) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:05:46.783+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:05:46.784+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:05:46.784+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:05:46.831+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:05:46.858+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:05:46.858+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:05:46.889+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:05:46.889+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:05:46.909+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.129 seconds
+[2023-04-18T13:06:17.159+0000] {processor.py:153} INFO - Started process (PID=6036) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:06:17.160+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:06:17.161+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:06:17.161+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:06:17.251+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:06:17.283+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:06:17.282+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:06:17.369+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:06:17.368+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:06:17.393+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.237 seconds
+[2023-04-18T13:06:47.670+0000] {processor.py:153} INFO - Started process (PID=6086) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:06:47.671+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:06:47.672+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:06:47.672+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:06:47.775+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:06:47.870+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:06:47.870+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:06:47.975+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:06:47.975+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:06:48.069+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.403 seconds
+[2023-04-18T13:07:18.163+0000] {processor.py:153} INFO - Started process (PID=6136) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:07:18.164+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:07:18.165+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:07:18.164+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:07:18.266+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:07:18.352+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:07:18.352+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:07:18.386+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:07:18.386+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:07:18.468+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.308 seconds
+[2023-04-18T13:07:48.608+0000] {processor.py:153} INFO - Started process (PID=6202) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:07:48.609+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:07:48.609+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:07:48.609+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:07:48.654+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:07:48.682+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:07:48.682+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:07:48.721+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:07:48.720+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:07:48.740+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.136 seconds
+[2023-04-18T13:08:18.892+0000] {processor.py:153} INFO - Started process (PID=6252) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:08:18.893+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:08:18.894+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:08:18.893+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:08:18.946+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:08:18.976+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:08:18.976+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:08:19.012+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:08:19.012+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:08:19.032+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.144 seconds
+[2023-04-18T13:08:49.186+0000] {processor.py:153} INFO - Started process (PID=6302) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:08:49.188+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:08:49.188+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:08:49.188+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:08:49.236+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:08:49.265+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:08:49.265+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:08:49.299+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:08:49.299+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:08:49.320+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.136 seconds
+[2023-04-18T13:09:19.472+0000] {processor.py:153} INFO - Started process (PID=6376) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:09:19.473+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:09:19.474+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:09:19.474+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:09:19.563+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:09:19.594+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:09:19.594+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:09:19.681+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:09:19.681+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:09:19.748+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.281 seconds
+[2023-04-18T13:09:49.906+0000] {processor.py:153} INFO - Started process (PID=6426) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:09:49.907+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:09:49.908+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:09:49.908+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:09:49.958+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:09:49.989+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:09:49.988+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:09:50.022+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:09:50.022+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:09:50.047+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.145 seconds
+[2023-04-18T13:10:20.213+0000] {processor.py:153} INFO - Started process (PID=6476) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:10:20.214+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:10:20.215+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:10:20.214+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:10:20.265+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:10:20.292+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:10:20.292+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:10:20.323+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:10:20.323+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:10:20.345+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.136 seconds
+[2023-04-18T13:10:50.517+0000] {processor.py:153} INFO - Started process (PID=6526) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:10:50.518+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:10:50.519+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:10:50.519+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:10:50.567+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:10:50.595+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:10:50.595+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:10:50.626+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:10:50.626+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:10:50.647+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.133 seconds
+[2023-04-18T13:11:20.976+0000] {processor.py:153} INFO - Started process (PID=6600) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:11:20.977+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:11:20.978+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:11:20.978+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:11:21.027+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:11:21.052+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:11:21.052+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:11:21.087+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:11:21.087+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:11:21.106+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.133 seconds
+[2023-04-18T13:11:51.291+0000] {processor.py:153} INFO - Started process (PID=6650) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:11:51.292+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:11:51.293+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:11:51.293+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:11:51.342+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:11:51.371+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:11:51.371+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:11:51.398+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:11:51.398+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:11:51.417+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.129 seconds
+[2023-04-18T13:12:21.601+0000] {processor.py:153} INFO - Started process (PID=6700) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:12:21.602+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:12:21.603+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:12:21.602+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:12:21.651+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:12:21.682+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:12:21.681+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:12:21.722+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:12:21.722+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:12:21.745+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.147 seconds
+[2023-04-18T13:12:52.007+0000] {processor.py:153} INFO - Started process (PID=6750) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:12:52.008+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:12:52.008+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:12:52.008+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:12:52.060+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:12:52.084+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:12:52.084+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:12:52.115+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:12:52.115+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:12:52.139+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.135 seconds
+[2023-04-18T13:13:07.113+0000] {processor.py:153} INFO - Started process (PID=6775) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:13:07.114+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:13:07.115+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:13:07.115+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:13:07.169+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:13:07.277+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:13:07.276+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:13:07.292+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:13:07.292+0000] {dag.py:2711} INFO - Creating ORM DAG for process-employees
+[2023-04-18T13:13:07.349+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:13:07.349+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T13:13:07.371+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.262 seconds
+[2023-04-18T13:13:37.574+0000] {processor.py:153} INFO - Started process (PID=6849) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:13:37.576+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:13:37.576+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:13:37.576+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:13:37.625+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:13:37.651+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:13:37.650+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:13:37.683+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:13:37.683+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T13:13:37.704+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.133 seconds
+[2023-04-18T13:14:07.906+0000] {processor.py:153} INFO - Started process (PID=6900) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:14:07.907+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:14:07.908+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:14:07.908+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:14:07.956+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:14:07.984+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:14:07.984+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:14:08.015+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:14:08.015+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-17T00:00:00+00:00, run_after=2023-04-18T00:00:00+00:00
+[2023-04-18T13:14:08.036+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.132 seconds
+[2023-04-18T13:14:38.293+0000] {processor.py:153} INFO - Started process (PID=6954) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:14:38.294+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:14:38.294+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:14:38.294+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:14:38.363+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:14:38.462+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:14:38.461+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:14:38.658+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:14:38.658+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:14:38.768+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.478 seconds
+[2023-04-18T13:15:08.876+0000] {processor.py:153} INFO - Started process (PID=7018) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:15:08.877+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:15:08.878+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:15:08.878+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:15:08.974+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:15:09.062+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:15:09.062+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:15:09.170+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:15:09.170+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:15:09.195+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.322 seconds
+[2023-04-18T13:15:39.333+0000] {processor.py:153} INFO - Started process (PID=7083) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:15:39.334+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:15:39.335+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:15:39.335+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:15:39.383+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:15:39.415+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:15:39.415+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:15:39.457+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:15:39.457+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:15:39.483+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.153 seconds
+[2023-04-18T13:16:09.652+0000] {processor.py:153} INFO - Started process (PID=7133) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:16:09.654+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:16:09.654+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:16:09.654+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:16:09.699+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:16:09.724+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:16:09.724+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:16:09.753+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:16:09.753+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:16:09.774+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.125 seconds
+[2023-04-18T13:16:40.005+0000] {processor.py:153} INFO - Started process (PID=7184) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:16:40.006+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:16:40.007+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:16:40.007+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:16:40.053+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:16:40.081+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:16:40.080+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:16:40.112+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:16:40.112+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:16:40.134+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.132 seconds
+[2023-04-18T13:17:10.324+0000] {processor.py:153} INFO - Started process (PID=7234) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:17:10.325+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:17:10.326+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:17:10.326+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:17:10.376+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:17:10.405+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:17:10.405+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:17:10.445+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:17:10.445+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:17:10.469+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.148 seconds
+[2023-04-18T13:17:40.645+0000] {processor.py:153} INFO - Started process (PID=7308) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:17:40.646+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:17:40.647+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:17:40.646+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:17:40.693+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:17:40.725+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:17:40.724+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:17:40.769+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:17:40.769+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:17:40.798+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.156 seconds
+[2023-04-18T13:18:10.961+0000] {processor.py:153} INFO - Started process (PID=7358) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:18:10.962+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:18:10.963+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:18:10.963+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:18:11.010+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:18:11.037+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:18:11.037+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:18:11.068+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:18:11.068+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:18:11.089+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.131 seconds
+[2023-04-18T13:18:41.257+0000] {processor.py:153} INFO - Started process (PID=7408) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:18:41.258+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:18:41.259+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:18:41.258+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:18:41.305+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:18:41.336+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:18:41.336+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:18:41.383+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:18:41.383+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:18:41.405+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.151 seconds
+[2023-04-18T13:19:11.590+0000] {processor.py:153} INFO - Started process (PID=7482) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:19:11.591+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:19:11.592+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:19:11.592+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:19:11.681+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:19:11.768+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:19:11.768+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:19:11.850+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:19:11.849+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:19:11.876+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.289 seconds
+[2023-04-18T13:19:42.046+0000] {processor.py:153} INFO - Started process (PID=7531) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:19:42.047+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:19:42.048+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:19:42.048+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:19:42.095+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:19:42.123+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:19:42.123+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:19:42.157+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:19:42.157+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:19:42.181+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.137 seconds
+[2023-04-18T13:20:12.384+0000] {processor.py:153} INFO - Started process (PID=7581) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:20:12.385+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:20:12.385+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:20:12.385+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:20:12.432+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:20:12.459+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:20:12.459+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:20:12.495+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:20:12.495+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:20:12.518+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.138 seconds
+[2023-04-18T13:20:42.724+0000] {processor.py:153} INFO - Started process (PID=7640) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:20:42.725+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:20:42.726+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:20:42.726+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:20:42.786+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:20:42.854+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:20:42.854+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:20:42.961+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:20:42.961+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:20:43.068+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.347 seconds
+[2023-04-18T13:21:13.276+0000] {processor.py:153} INFO - Started process (PID=7706) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:21:13.278+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:21:13.279+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:21:13.279+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:21:13.399+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:21:13.469+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:21:13.468+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:21:13.502+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:21:13.502+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:21:13.524+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.252 seconds
+[2023-04-18T13:21:43.886+0000] {processor.py:153} INFO - Started process (PID=7756) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:21:43.887+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:21:43.888+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:21:43.888+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:21:43.936+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:21:43.964+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:21:43.964+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:21:44.006+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:21:44.006+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:21:44.035+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.152 seconds
+[2023-04-18T13:22:14.305+0000] {processor.py:153} INFO - Started process (PID=7806) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:22:14.306+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:22:14.306+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:22:14.306+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:22:14.355+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:22:14.383+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:22:14.383+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:22:14.415+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:22:14.414+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:22:14.434+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.133 seconds
+[2023-04-18T13:22:44.622+0000] {processor.py:153} INFO - Started process (PID=7856) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:22:44.623+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:22:44.623+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:22:44.623+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:22:44.673+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:22:44.707+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:22:44.707+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:22:44.743+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:22:44.743+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:22:44.768+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.150 seconds
+[2023-04-18T13:23:15.068+0000] {processor.py:153} INFO - Started process (PID=7914) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:23:15.069+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:23:15.070+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:23:15.070+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:23:15.180+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:23:15.263+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:23:15.263+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:23:15.365+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:23:15.365+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:23:15.449+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.385 seconds
+[2023-04-18T13:23:45.685+0000] {processor.py:153} INFO - Started process (PID=7981) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:23:45.686+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:23:45.687+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:23:45.686+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:23:45.735+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:23:45.763+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:23:45.763+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:23:45.796+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:23:45.796+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:23:45.816+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.134 seconds
+[2023-04-18T13:24:16.011+0000] {processor.py:153} INFO - Started process (PID=8031) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:24:16.012+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:24:16.013+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:24:16.013+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:24:16.066+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:24:16.101+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:24:16.100+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:24:16.142+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:24:16.142+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:24:16.164+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.156 seconds
+[2023-04-18T13:24:46.368+0000] {processor.py:153} INFO - Started process (PID=8081) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:24:46.369+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:24:46.370+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:24:46.370+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:24:46.437+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:24:46.481+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:24:46.481+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:24:46.528+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:24:46.527+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:24:46.562+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.198 seconds
+[2023-04-18T13:25:16.954+0000] {processor.py:153} INFO - Started process (PID=8156) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:25:16.955+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:25:16.956+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:25:16.956+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:25:17.051+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:25:17.079+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:25:17.079+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:25:17.150+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:25:17.150+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:25:17.175+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.224 seconds
+[2023-04-18T13:25:47.377+0000] {processor.py:153} INFO - Started process (PID=8206) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:25:47.378+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:25:47.379+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:25:47.379+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:25:47.431+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:25:47.463+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:25:47.462+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:25:47.498+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:25:47.498+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:25:47.523+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.148 seconds
+[2023-04-18T13:26:17.780+0000] {processor.py:153} INFO - Started process (PID=8256) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:26:17.781+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:26:17.782+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:26:17.781+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:26:17.833+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:26:17.864+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:26:17.863+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:26:17.898+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:26:17.898+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:26:17.921+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.145 seconds
+[2023-04-18T13:26:48.084+0000] {processor.py:153} INFO - Started process (PID=8313) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:26:48.085+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:26:48.086+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:26:48.086+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:26:48.132+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:26:48.160+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:26:48.160+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:26:48.197+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:26:48.197+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:26:48.218+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.137 seconds
+[2023-04-18T13:27:18.445+0000] {processor.py:153} INFO - Started process (PID=8380) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:27:18.446+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:27:18.446+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:27:18.446+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:27:18.492+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:27:18.520+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:27:18.520+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:27:18.554+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:27:18.554+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:27:18.576+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.135 seconds
+[2023-04-18T13:27:48.840+0000] {processor.py:153} INFO - Started process (PID=8430) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:27:48.841+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:27:48.842+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:27:48.842+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:27:48.892+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:27:48.923+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:27:48.923+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:27:48.957+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:27:48.957+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:27:48.980+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.143 seconds
+[2023-04-18T13:28:19.216+0000] {processor.py:153} INFO - Started process (PID=8480) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:28:19.217+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:28:19.218+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:28:19.218+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:28:19.271+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:28:19.300+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:28:19.300+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:28:19.334+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:28:19.334+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:28:19.354+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.142 seconds
+[2023-04-18T13:28:49.592+0000] {processor.py:153} INFO - Started process (PID=8530) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:28:49.593+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:28:49.594+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:28:49.593+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:28:49.686+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:28:49.776+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:28:49.775+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:28:49.867+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:28:49.867+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:28:49.894+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.307 seconds
+[2023-04-18T13:29:20.174+0000] {processor.py:153} INFO - Started process (PID=8589) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:29:20.175+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:29:20.176+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:29:20.176+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:29:20.259+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:29:20.292+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:29:20.292+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:29:20.371+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:29:20.371+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:29:20.393+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.223 seconds
+[2023-04-18T13:29:50.683+0000] {processor.py:153} INFO - Started process (PID=8654) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:29:50.684+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:29:50.685+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:29:50.685+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:29:50.730+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:29:50.757+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:29:50.757+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:29:50.789+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:29:50.789+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:29:50.816+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.136 seconds
+[2023-04-18T13:30:21.000+0000] {processor.py:153} INFO - Started process (PID=8704) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:30:21.001+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:30:21.002+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:30:21.002+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:30:21.053+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:30:21.081+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:30:21.080+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:30:21.117+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:30:21.116+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:30:21.136+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.139 seconds
+[2023-04-18T13:30:51.348+0000] {processor.py:153} INFO - Started process (PID=8754) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:30:51.349+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:30:51.350+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:30:51.350+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:30:51.398+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:30:51.426+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:30:51.426+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:30:51.463+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:30:51.462+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:30:51.486+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.141 seconds
+[2023-04-18T13:31:21.672+0000] {processor.py:153} INFO - Started process (PID=8828) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:31:21.673+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:31:21.673+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:31:21.673+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:31:21.752+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:31:21.790+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:31:21.789+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:31:21.851+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:31:21.851+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:31:21.871+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.202 seconds
+[2023-04-18T13:31:52.093+0000] {processor.py:153} INFO - Started process (PID=8878) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:31:52.095+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:31:52.095+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:31:52.095+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:31:52.147+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:31:52.179+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:31:52.179+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:31:52.215+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:31:52.215+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:31:52.239+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.148 seconds
+[2023-04-18T13:32:22.408+0000] {processor.py:153} INFO - Started process (PID=8928) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:32:22.409+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:32:22.410+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:32:22.410+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:32:22.458+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:32:22.491+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:32:22.490+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:32:22.535+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:32:22.535+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:32:22.560+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.154 seconds
+[2023-04-18T13:32:52.825+0000] {processor.py:153} INFO - Started process (PID=8978) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:32:52.825+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:32:52.826+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:32:52.826+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:32:52.886+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:32:52.915+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:32:52.915+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:32:52.949+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:32:52.948+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:32:52.978+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.157 seconds
+[2023-04-18T13:33:23.267+0000] {processor.py:153} INFO - Started process (PID=9036) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:33:23.278+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:33:23.280+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:33:23.280+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:33:23.382+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:33:23.781+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:33:23.781+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:33:23.955+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:33:23.955+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:33:24.069+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.805 seconds
+[2023-04-18T13:33:54.169+0000] {processor.py:153} INFO - Started process (PID=9101) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:33:54.170+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:33:54.171+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:33:54.171+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:33:54.237+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:33:54.284+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:33:54.284+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:33:54.331+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:33:54.330+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:33:54.373+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.208 seconds
+[2023-04-18T13:34:24.683+0000] {processor.py:153} INFO - Started process (PID=9151) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:34:24.684+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:34:24.685+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:34:24.685+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:34:24.745+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:34:24.783+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:34:24.782+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:34:24.828+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:34:24.828+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:34:24.856+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.177 seconds
+[2023-04-18T13:34:55.080+0000] {processor.py:153} INFO - Started process (PID=9201) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:34:55.080+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:34:55.081+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:34:55.081+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:34:55.144+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:34:55.180+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:34:55.180+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:34:55.226+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:34:55.226+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:34:55.252+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.176 seconds
+[2023-04-18T13:35:25.515+0000] {processor.py:153} INFO - Started process (PID=9251) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:35:25.517+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:35:25.518+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:35:25.518+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:35:25.596+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:35:25.647+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:35:25.646+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:35:25.693+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:35:25.693+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:35:25.730+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.220 seconds
+[2023-04-18T13:35:55.982+0000] {processor.py:153} INFO - Started process (PID=9310) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:35:55.983+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:35:55.984+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:35:55.984+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:35:56.046+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:35:56.077+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:35:56.077+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:35:56.114+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:35:56.114+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:35:56.395+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.416 seconds
+[2023-04-18T13:36:26.584+0000] {processor.py:153} INFO - Started process (PID=9375) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:36:26.586+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:36:26.587+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:36:26.587+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:36:26.643+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:36:26.679+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:36:26.679+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:36:26.723+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:36:26.723+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:36:26.747+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.167 seconds
+[2023-04-18T13:36:56.949+0000] {processor.py:153} INFO - Started process (PID=9426) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:36:56.950+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:36:56.951+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:36:56.951+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:36:57.009+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:36:57.038+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:36:57.038+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:36:57.074+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:36:57.074+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:36:57.103+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.157 seconds
+[2023-04-18T13:37:27.344+0000] {processor.py:153} INFO - Started process (PID=9476) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:37:27.345+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:37:27.346+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:37:27.346+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:37:27.412+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:37:27.449+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:37:27.449+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:37:27.501+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:37:27.501+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:37:27.529+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.188 seconds
+[2023-04-18T13:37:57.823+0000] {processor.py:153} INFO - Started process (PID=9525) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:37:57.825+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:37:57.826+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:37:57.826+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:37:57.881+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:37:57.915+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:37:57.915+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:37:57.956+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:37:57.956+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:37:57.983+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.163 seconds
+[2023-04-18T13:38:28.197+0000] {processor.py:153} INFO - Started process (PID=9584) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:38:28.198+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:38:28.198+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:38:28.198+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:38:28.277+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:38:28.305+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:38:28.304+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:38:28.372+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:38:28.372+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:38:28.547+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.353 seconds
+[2023-04-18T13:38:58.777+0000] {processor.py:153} INFO - Started process (PID=9649) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:38:58.778+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:38:58.779+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:38:58.779+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:38:58.832+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:38:58.865+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:38:58.864+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:38:58.903+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:38:58.903+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:38:58.931+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.158 seconds
+[2023-04-18T13:39:29.198+0000] {processor.py:153} INFO - Started process (PID=9699) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:39:29.199+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:39:29.200+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:39:29.200+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:39:29.244+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:39:29.279+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:39:29.279+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:39:29.325+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:39:29.325+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:39:29.345+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.150 seconds
+[2023-04-18T13:39:59.613+0000] {processor.py:153} INFO - Started process (PID=9749) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:39:59.614+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:39:59.615+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:39:59.615+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:39:59.677+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:39:59.715+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:39:59.715+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:39:59.758+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:39:59.757+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:39:59.790+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.180 seconds
+[2023-04-18T13:40:30.113+0000] {processor.py:153} INFO - Started process (PID=9799) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:40:30.114+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:40:30.115+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:40:30.115+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:40:30.180+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:40:30.218+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:40:30.217+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:40:30.266+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:40:30.266+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:40:30.296+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.187 seconds
+[2023-04-18T13:41:00.528+0000] {processor.py:153} INFO - Started process (PID=9849) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:41:00.529+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:41:00.530+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:41:00.530+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:41:00.594+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:41:00.678+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:41:00.678+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:41:00.782+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:41:00.782+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:41:00.855+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.331 seconds
+[2023-04-18T13:41:31.066+0000] {processor.py:153} INFO - Started process (PID=9906) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:41:31.067+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:41:31.070+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:41:31.070+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:41:31.252+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:41:31.294+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:41:31.293+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:41:31.449+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:41:31.448+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:41:31.564+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.501 seconds
+[2023-04-18T13:42:02.243+0000] {processor.py:153} INFO - Started process (PID=9973) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:42:02.244+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:42:02.245+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:42:02.245+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:42:02.297+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:42:02.326+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:42:02.326+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:42:02.364+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:42:02.364+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:42:02.386+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.147 seconds
+[2023-04-18T13:42:32.607+0000] {processor.py:153} INFO - Started process (PID=10023) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:42:32.608+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:42:32.609+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:42:32.609+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:42:32.655+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:42:32.681+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:42:32.681+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:42:32.716+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:42:32.716+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:42:32.794+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.190 seconds
+[2023-04-18T13:43:02.992+0000] {processor.py:153} INFO - Started process (PID=10073) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:43:02.993+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:43:02.994+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:43:02.993+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:43:03.053+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:43:03.088+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:43:03.088+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:43:03.135+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:43:03.135+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:43:03.163+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.175 seconds
+[2023-04-18T13:43:33.346+0000] {processor.py:153} INFO - Started process (PID=10123) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:43:33.347+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:43:33.347+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:43:33.347+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:43:33.400+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:43:33.447+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:43:33.447+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:43:33.482+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:43:33.482+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:43:33.506+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.163 seconds
+[2023-04-18T13:44:03.749+0000] {processor.py:153} INFO - Started process (PID=10197) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:44:03.750+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:44:03.751+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:44:03.751+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:44:03.801+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:44:03.833+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:44:03.833+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:44:03.875+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:44:03.875+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:44:03.899+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.153 seconds
+[2023-04-18T13:44:34.110+0000] {processor.py:153} INFO - Started process (PID=10247) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:44:34.111+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:44:34.112+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:44:34.112+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:44:34.182+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:44:34.217+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:44:34.217+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:44:34.263+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:44:34.262+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:44:34.358+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.252 seconds
+[2023-04-18T13:45:04.545+0000] {processor.py:153} INFO - Started process (PID=10297) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:45:04.546+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:45:04.547+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:45:04.547+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:45:04.602+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:45:04.634+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:45:04.633+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:45:04.671+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:45:04.671+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:45:04.696+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.155 seconds
+[2023-04-18T13:45:34.877+0000] {processor.py:153} INFO - Started process (PID=10371) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:45:34.879+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:45:34.879+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:45:34.879+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:45:34.931+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:45:34.972+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:45:34.972+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:45:35.013+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:45:35.013+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:45:35.041+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.167 seconds
+[2023-04-18T13:46:05.286+0000] {processor.py:153} INFO - Started process (PID=10421) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:46:05.289+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:46:05.290+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:46:05.290+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:46:05.347+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:46:05.387+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:46:05.387+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:46:05.429+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:46:05.429+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:46:05.459+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.178 seconds
+[2023-04-18T13:46:35.506+0000] {processor.py:153} INFO - Started process (PID=10470) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:46:35.508+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:46:35.508+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:46:35.508+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:46:35.559+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:46:35.590+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:46:35.589+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:46:35.623+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:46:35.622+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:46:35.643+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.140 seconds
+[2023-04-18T13:47:05.819+0000] {processor.py:153} INFO - Started process (PID=10520) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:47:05.820+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:47:05.821+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:47:05.821+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:47:05.877+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:47:05.908+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:47:05.908+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:47:05.957+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:47:05.957+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:47:05.983+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.168 seconds
+[2023-04-18T13:47:36.227+0000] {processor.py:153} INFO - Started process (PID=10594) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:47:36.228+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:47:36.229+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:47:36.229+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:47:36.285+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:47:36.313+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:47:36.313+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:47:36.352+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:47:36.352+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:47:36.390+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.166 seconds
+[2023-04-18T13:48:06.568+0000] {processor.py:153} INFO - Started process (PID=10644) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:48:06.569+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:48:06.570+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:48:06.570+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:48:06.618+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:48:06.646+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:48:06.645+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:48:06.682+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:48:06.682+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:48:06.704+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.138 seconds
+[2023-04-18T13:48:36.927+0000] {processor.py:153} INFO - Started process (PID=10694) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:48:36.928+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:48:36.929+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:48:36.929+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:48:36.989+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:48:37.053+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:48:37.053+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:48:37.091+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:48:37.090+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:48:37.156+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.232 seconds
+[2023-04-18T13:49:07.323+0000] {processor.py:153} INFO - Started process (PID=10768) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:49:07.324+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:49:07.325+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:49:07.325+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:49:07.378+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:49:07.408+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:49:07.407+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:49:07.453+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:49:07.453+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:49:07.479+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.159 seconds
+[2023-04-18T13:49:37.666+0000] {processor.py:153} INFO - Started process (PID=10818) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:49:37.667+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:49:37.668+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:49:37.668+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:49:37.717+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:49:37.749+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:49:37.748+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:49:37.787+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:49:37.787+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:49:37.809+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.146 seconds
+[2023-04-18T13:50:07.973+0000] {processor.py:153} INFO - Started process (PID=10868) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:50:07.974+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:50:07.974+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:50:07.974+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:50:08.055+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:50:08.083+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:50:08.083+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:50:08.152+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:50:08.152+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:50:08.174+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.204 seconds
+[2023-04-18T13:50:38.388+0000] {processor.py:153} INFO - Started process (PID=10942) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:50:38.389+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:50:38.390+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:50:38.390+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:50:38.437+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:50:38.464+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:50:38.464+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:50:38.494+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:50:38.494+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:50:38.518+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.134 seconds
+[2023-04-18T13:51:08.685+0000] {processor.py:153} INFO - Started process (PID=10992) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:51:08.686+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:51:08.687+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:51:08.687+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:51:08.731+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:51:08.756+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:51:08.756+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:51:08.787+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:51:08.787+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:51:08.808+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.126 seconds
+[2023-04-18T13:51:39.025+0000] {processor.py:153} INFO - Started process (PID=11042) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:51:39.026+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:51:39.026+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:51:39.026+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:51:39.070+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:51:39.096+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:51:39.095+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:51:39.128+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:51:39.128+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:51:39.149+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.126 seconds
+[2023-04-18T13:52:09.378+0000] {processor.py:153} INFO - Started process (PID=11116) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:52:09.380+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:52:09.380+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:52:09.380+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:52:09.437+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:52:09.474+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:52:09.474+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:52:09.522+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:52:09.522+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:52:09.555+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.179 seconds
+[2023-04-18T13:52:39.730+0000] {processor.py:153} INFO - Started process (PID=11166) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:52:39.731+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:52:39.731+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:52:39.731+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:52:39.779+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:52:39.811+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:52:39.811+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:52:39.842+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:52:39.842+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:52:39.866+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.139 seconds
+[2023-04-18T13:53:10.079+0000] {processor.py:153} INFO - Started process (PID=11225) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:53:10.081+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:53:10.082+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:53:10.082+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:53:10.133+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:53:10.165+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:53:10.165+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:53:10.195+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:53:10.195+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:53:10.214+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.138 seconds
+[2023-04-18T13:53:40.382+0000] {processor.py:153} INFO - Started process (PID=11290) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:53:40.383+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:53:40.383+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:53:40.383+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:53:40.435+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:53:40.463+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:53:40.463+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:53:40.496+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:53:40.495+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:53:40.517+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.138 seconds
+[2023-04-18T13:54:10.719+0000] {processor.py:153} INFO - Started process (PID=11340) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:54:10.720+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:54:10.721+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:54:10.721+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:54:10.768+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:54:10.797+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:54:10.797+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:54:10.829+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:54:10.829+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:54:10.854+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.137 seconds
+[2023-04-18T13:54:41.024+0000] {processor.py:153} INFO - Started process (PID=11414) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:54:41.025+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:54:41.026+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:54:41.025+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:54:41.073+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:54:41.102+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:54:41.102+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:54:41.139+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:54:41.138+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:54:41.161+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.140 seconds
+[2023-04-18T13:55:11.394+0000] {processor.py:153} INFO - Started process (PID=11464) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:55:11.395+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:55:11.396+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:55:11.395+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:55:11.444+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:55:11.476+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:55:11.476+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:55:11.510+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:55:11.510+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:55:11.532+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.141 seconds
+[2023-04-18T13:55:41.734+0000] {processor.py:153} INFO - Started process (PID=11514) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:55:41.735+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:55:41.736+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:55:41.736+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:55:41.786+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:55:41.815+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:55:41.815+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:55:41.848+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:55:41.848+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:55:41.869+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.138 seconds
+[2023-04-18T13:56:12.036+0000] {processor.py:153} INFO - Started process (PID=11588) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:56:12.037+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:56:12.037+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:56:12.037+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:56:12.088+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:56:12.119+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:56:12.119+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:56:12.152+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:56:12.152+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:56:12.173+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.141 seconds
+[2023-04-18T13:56:42.343+0000] {processor.py:153} INFO - Started process (PID=11638) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:56:42.344+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:56:42.345+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:56:42.345+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:56:42.394+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:56:42.423+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:56:42.423+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:56:42.456+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:56:42.456+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:56:42.479+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.139 seconds
+[2023-04-18T13:57:12.655+0000] {processor.py:153} INFO - Started process (PID=11687) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:57:12.656+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:57:12.657+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:57:12.657+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:57:12.704+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:57:12.733+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:57:12.732+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:57:12.766+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:57:12.766+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:57:12.789+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.137 seconds
+[2023-04-18T13:57:42.977+0000] {processor.py:153} INFO - Started process (PID=11761) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:57:42.978+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:57:42.979+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:57:42.978+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:57:43.032+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:57:43.064+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:57:43.064+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:57:43.103+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:57:43.103+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:57:43.126+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.151 seconds
+[2023-04-18T13:58:13.309+0000] {processor.py:153} INFO - Started process (PID=11811) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:58:13.310+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:58:13.311+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:58:13.310+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:58:13.361+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:58:13.392+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:58:13.391+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:58:13.430+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:58:13.430+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:58:13.546+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.241 seconds
+[2023-04-18T13:58:43.779+0000] {processor.py:153} INFO - Started process (PID=11861) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:58:43.780+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:58:43.781+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:58:43.781+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:58:43.833+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:58:43.866+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:58:43.866+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:58:43.906+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:58:43.905+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:58:43.928+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.152 seconds
+[2023-04-18T13:59:14.175+0000] {processor.py:153} INFO - Started process (PID=11935) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:59:14.176+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:59:14.177+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:59:14.176+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:59:14.223+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:59:14.249+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:59:14.249+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:59:14.280+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:59:14.280+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:59:14.299+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.128 seconds
+[2023-04-18T13:59:44.457+0000] {processor.py:153} INFO - Started process (PID=11987) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T13:59:44.459+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T13:59:44.459+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:59:44.459+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:59:44.509+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T13:59:44.540+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:59:44.540+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T13:59:44.573+0000] {logging_mixin.py:137} INFO - [2023-04-18T13:59:44.573+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T13:59:44.595+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.141 seconds
+[2023-04-18T14:00:14.803+0000] {processor.py:153} INFO - Started process (PID=12039) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:00:14.804+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:00:14.805+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:00:14.805+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:00:14.854+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:00:14.882+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:00:14.882+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:00:14.916+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:00:14.916+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:00:14.939+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.139 seconds
+[2023-04-18T14:00:45.199+0000] {processor.py:153} INFO - Started process (PID=12111) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:00:45.200+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:00:45.200+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:00:45.200+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:00:45.251+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:00:45.279+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:00:45.278+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:00:45.315+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:00:45.315+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:00:45.338+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.142 seconds
+[2023-04-18T14:01:15.534+0000] {processor.py:153} INFO - Started process (PID=12161) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:01:15.538+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:01:15.539+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:01:15.539+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:01:15.672+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:01:15.757+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:01:15.757+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:01:15.849+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:01:15.849+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:01:15.880+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.350 seconds
+[2023-04-18T14:01:46.155+0000] {processor.py:153} INFO - Started process (PID=12220) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:01:46.157+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:01:46.158+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:01:46.158+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:01:46.249+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:01:46.293+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:01:46.293+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:01:46.366+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:01:46.366+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:01:46.392+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.242 seconds
+[2023-04-18T14:02:16.573+0000] {processor.py:153} INFO - Started process (PID=12285) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:02:16.575+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:02:16.576+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:02:16.576+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:02:16.639+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:02:16.669+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:02:16.669+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:02:16.702+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:02:16.701+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:02:16.723+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.154 seconds
+[2023-04-18T14:02:46.887+0000] {processor.py:153} INFO - Started process (PID=12335) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:02:46.888+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:02:46.888+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:02:46.888+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:02:46.937+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:02:46.970+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:02:46.970+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:02:47.001+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:02:47.001+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:02:47.051+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.168 seconds
+[2023-04-18T14:03:17.355+0000] {processor.py:153} INFO - Started process (PID=12394) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:03:17.356+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:03:17.356+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:03:17.356+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:03:17.405+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:03:17.434+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:03:17.434+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:03:17.475+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:03:17.475+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:03:17.502+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.151 seconds
+[2023-04-18T14:03:47.685+0000] {processor.py:153} INFO - Started process (PID=12459) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:03:47.686+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:03:47.687+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:03:47.687+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:03:47.736+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:03:47.763+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:03:47.763+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:03:47.797+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:03:47.797+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:03:47.818+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.136 seconds
+[2023-04-18T14:04:18.027+0000] {processor.py:153} INFO - Started process (PID=12509) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:04:18.028+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:04:18.029+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:04:18.029+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:04:18.076+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:04:18.104+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:04:18.104+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:04:18.139+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:04:18.139+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:04:18.161+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.137 seconds
+[2023-04-18T14:04:48.411+0000] {processor.py:153} INFO - Started process (PID=12583) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:04:48.412+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:04:48.413+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:04:48.413+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:04:48.464+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:04:48.508+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:04:48.508+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:04:48.555+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:04:48.555+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:04:48.583+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.175 seconds
+[2023-04-18T14:05:18.753+0000] {processor.py:153} INFO - Started process (PID=12633) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:05:18.754+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:05:18.755+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:05:18.755+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:05:18.801+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:05:18.830+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:05:18.830+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:05:18.860+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:05:18.860+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:05:18.882+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.131 seconds
+[2023-04-18T14:05:49.055+0000] {processor.py:153} INFO - Started process (PID=12683) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:05:49.056+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:05:49.057+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:05:49.057+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:05:49.107+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:05:49.135+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:05:49.135+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:05:49.168+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:05:49.168+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:05:49.188+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.136 seconds
+[2023-04-18T14:06:19.352+0000] {processor.py:153} INFO - Started process (PID=12757) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:06:19.354+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:06:19.354+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:06:19.354+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:06:19.407+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:06:19.437+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:06:19.436+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:06:19.473+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:06:19.472+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:06:19.503+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.154 seconds
+[2023-04-18T14:06:49.689+0000] {processor.py:153} INFO - Started process (PID=12807) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:06:49.690+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:06:49.691+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:06:49.691+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:06:49.735+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:06:49.763+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:06:49.763+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:06:49.801+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:06:49.801+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:06:49.824+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.139 seconds
+[2023-04-18T14:07:20.100+0000] {processor.py:153} INFO - Started process (PID=12857) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:07:20.101+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:07:20.101+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:07:20.101+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:07:20.152+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:07:20.179+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:07:20.179+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:07:20.216+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:07:20.216+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:07:20.239+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.142 seconds
+[2023-04-18T14:07:50.410+0000] {processor.py:153} INFO - Started process (PID=12931) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:07:50.411+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:07:50.412+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:07:50.412+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:07:50.469+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:07:50.499+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:07:50.499+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:07:50.534+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:07:50.534+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:07:50.559+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.152 seconds
+[2023-04-18T14:08:20.790+0000] {processor.py:153} INFO - Started process (PID=12981) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:08:20.792+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:08:20.792+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:08:20.792+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:08:20.838+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:08:20.865+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:08:20.865+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:08:20.895+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:08:20.895+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:08:20.913+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.127 seconds
+[2023-04-18T14:08:51.081+0000] {processor.py:153} INFO - Started process (PID=13031) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:08:51.082+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:08:51.083+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:08:51.083+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:08:51.132+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:08:51.160+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:08:51.160+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:08:51.194+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:08:51.194+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:08:51.214+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.137 seconds
+[2023-04-18T14:09:21.441+0000] {processor.py:153} INFO - Started process (PID=13105) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:09:21.442+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:09:21.443+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:09:21.442+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:09:21.499+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:09:21.529+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:09:21.529+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:09:21.562+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:09:21.562+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:09:21.586+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.147 seconds
+[2023-04-18T14:09:51.755+0000] {processor.py:153} INFO - Started process (PID=13155) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:09:51.756+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:09:51.757+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:09:51.757+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:09:51.807+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:09:51.832+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:09:51.832+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:09:51.866+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:09:51.866+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:09:51.886+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.134 seconds
+[2023-04-18T14:10:22.082+0000] {processor.py:153} INFO - Started process (PID=13205) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:10:22.083+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:10:22.084+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:10:22.083+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:10:22.128+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:10:22.154+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:10:22.154+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:10:22.193+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:10:22.193+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:10:22.216+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.137 seconds
+[2023-04-18T14:10:52.400+0000] {processor.py:153} INFO - Started process (PID=13279) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:10:52.401+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:10:52.402+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:10:52.402+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:10:52.450+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:10:52.479+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:10:52.479+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:10:52.514+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:10:52.514+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:10:52.536+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.139 seconds
+[2023-04-18T14:11:22.689+0000] {processor.py:153} INFO - Started process (PID=13329) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:11:22.690+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:11:22.691+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:11:22.691+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:11:22.734+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:11:22.758+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:11:22.758+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:11:22.787+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:11:22.787+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:11:22.805+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.118 seconds
+[2023-04-18T14:11:52.966+0000] {processor.py:153} INFO - Started process (PID=13388) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:11:52.967+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:11:52.968+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:11:52.968+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:11:53.015+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:11:53.040+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:11:53.040+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:11:53.074+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:11:53.073+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:11:53.094+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.131 seconds
+[2023-04-18T14:12:23.297+0000] {processor.py:153} INFO - Started process (PID=13454) to work on /opt/airflow/dags/process-employees.py
+[2023-04-18T14:12:23.298+0000] {processor.py:743} INFO - Processing file /opt/airflow/dags/process-employees.py for tasks to queue
+[2023-04-18T14:12:23.299+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:12:23.298+0000] {dagbag.py:538} INFO - Filling up the DagBag from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:12:23.348+0000] {processor.py:753} INFO - DAG(s) dict_keys(['process-employees']) retrieved from /opt/airflow/dags/process-employees.py
+[2023-04-18T14:12:23.378+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:12:23.378+0000] {dag.py:2690} INFO - Sync 1 DAGs
+[2023-04-18T14:12:23.412+0000] {logging_mixin.py:137} INFO - [2023-04-18T14:12:23.411+0000] {dag.py:3441} INFO - Setting next_dagrun for process-employees to 2023-04-18T00:00:00+00:00, run_after=2023-04-19T00:00:00+00:00
+[2023-04-18T14:12:23.436+0000] {processor.py:175} INFO - Processing /opt/airflow/dags/process-employees.py took 0.143 seconds
